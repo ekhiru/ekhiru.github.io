@@ -1,4 +1,4 @@
-## Ekhine IRUROZKI
+## Ekhine Irurozki
 
 
 Ekhine Irurozki received a Ph.D. in Computer Science from the University of the Basque Country, Spain, in 2014.
