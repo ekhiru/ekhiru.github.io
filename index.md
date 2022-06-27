@@ -26,4 +26,4 @@ Team: [Signal, Statistique et Apprentissage (S2A)](https://www.telecom-paris.fr/
 Lab: [Laboratoire Traitement et Communication de l'Information (LTCI)](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci)
 Deppartment: [Image, Données, Signal (IDS)](https://www.telecom-paris.fr/fr/lecole/departements-enseignement-recherche/image-donnees-signal)
 
-Telecom Paris, Institut Polytechnique de Paris
+Télécom Paris, Institut Polytechnique de Paris
