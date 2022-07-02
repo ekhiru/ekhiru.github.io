@@ -1,10 +1,10 @@
 ## Ekhine Irurozki
 
 
-Ekhine Irurozki received a Ph.D. in Computer Science from the University of the Basque Country, Spain, in 2014.
-Since 2020 she has been Assistant Professor at Télécom Paris. Before joining Télécom Paris, she was a postdoc fellow at the Machine Learning Department at the Basque Center for Applied Mathematics (BCAM) in Bilbao from 2017 to 2020. She previously worked from 2015 to 2017 as Postdoctoral Fellow at the Basque Country University. Her main research interest is the development of optimization and artificial intelligence techniques for automatic decision making, with a particular interest in statistical problems with ranked data.
+I received a Ph.D. in Computer Science from the University of the Basque Country, Spain, in 2014.
+Since 2020 I have been Assistant Professor at Télécom Paris. Before joining Télécom Paris, I was a postdoc fellow at the Machine Learning Department at the Basque Center for Applied Mathematics (BCAM) in Bilbao from 2017 to 2020. I previously worked from 2015 to 2017 as Postdoctoral Fellow at the Basque Country University. My main research interest is the development of optimization and artificial intelligence techniques for automatic decision making, with a particular interest in statistical problems with ranked data.
 
-Dr. Irurozki has led the cybersecurity lab and has been part of the transfer unit at BCAM, having worked in several projects with companies in the manufacturing and services sectors. She has received the Extraordinary Doctoral Award from the Basque Country University.
+I have led the cybersecurity lab and has been part of the transfer unit at BCAM, having worked in several projects with companies in the manufacturing and services sectors. I received the Extraordinary Doctoral Award from the Basque Country University.
 
 ### Publications
 
